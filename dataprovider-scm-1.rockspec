@@ -10,7 +10,7 @@ description = {
    detailed = [[
    	    Data Provider for torch
    ]],
-   homepage = "https://github.com/ehoffer/DataProvider.torch"
+   homepage = "https://github.com/eladhoffer/DataProvider.torch"
 }
 
 dependencies = {
